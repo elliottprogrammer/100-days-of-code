@@ -1,29 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: Tuesday, October 9, 2018
+
+**Today's Progress**: Worked on Webpack setup & config
+
+**Thoughts:** Webpack seems quite complicated to setup and there's a lot to learn and so many different loaders & plugins all with different configurations. I suppose you can always refer to the documentation, but would be nice to be able to easily setup various configurations quickly and easily by just memory and understanding. I suppose as I continue to practice by setting up many, many different projects, this will come. As with anythiing, practice, practice, practice.
+
+**Link to work:** [webpack-babel-scss-boilerplate](https://github.com/elliottprogrammer/webpack-babel-scss-boilerplate)
+
+### Day 2: Wednesday, October 10, 2018 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Lorem ipsum dolor sit amet.  
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, doloribus.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 3: Thursday, October 11, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Lorem ipsum dolor sit amet. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, doloribus.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
