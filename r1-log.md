@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [Tuesday, October 9, 2018].
 Learning Webpack. Setup a boilerplate Webpack configuration with Babel, SASS(Scss), and with css autoprefixer. 
 
 ### R1D2
+Sandbox coding.. playing around with fetch and promises (javascript)

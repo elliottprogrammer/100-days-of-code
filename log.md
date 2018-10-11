@@ -9,13 +9,12 @@
 **Link to work:** [webpack-babel-scss-boilerplate](https://github.com/elliottprogrammer/webpack-babel-scss-boilerplate)
 
 ### Day 2: Wednesday, October 10, 2018 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Lorem ipsum dolor sit amet.  
+**Today's Progress**: Practicing javascript fetch and promises. (sandbox coding)   
 
-**Thoughts**: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, doloribus.
+**Thoughts**: Just playing around, coding promises and fetch.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [fetch-and-promises-sandbox](http://www.example.com)
 
 
 ### Day 3: Thursday, October 11, 2018
