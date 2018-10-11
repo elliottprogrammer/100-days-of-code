@@ -14,7 +14,7 @@
 
 **Thoughts**: Just playing around, coding promises and fetch.
 
-**Link(s) to work**: [fetch-and-promises-sandbox](http://www.example.com)
+**Link(s) to work**: [fetch-and-promises-sandbox](https://github.com/elliottprogrammer/100-days-of-code/tree/master/projects/fetch-and-promises-sandbox)
 
 
 ### Day 3: Thursday, October 11, 2018
