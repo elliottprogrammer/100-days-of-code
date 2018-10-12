@@ -19,10 +19,10 @@
 
 ### Day 3: Thursday, October 11, 2018
 
-**Today's Progress**: Lorem ipsum dolor sit amet. 
+**Today's Progress**: Finished my Webpack 4 - Babel & SCSS with CSS auto-prefixer Boilerplate. Added readme.md and pushed to github.
 
-**Thoughts** Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, doloribus.
+**Thoughts** I need to learn markdown a little better..  writing a readme.md file for github takes a lot of time when you're not well versed in markdown..
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [webpack-babel-scss-boilerplate](https://github.com/elliottprogrammer/webpack-babel-scss-boilerplate)
+2. [Javascript fetch & promises sandbox](https://github.com/elliottprogrammer/100-days-of-code/tree/master/projects/fetch-and-promises-sandbox)

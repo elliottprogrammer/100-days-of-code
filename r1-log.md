@@ -9,3 +9,6 @@ Learning Webpack. Setup a boilerplate Webpack configuration with Babel, SASS(Scs
 
 ### R1D2
 Sandbox coding.. playing around with fetch and promises (javascript)
+
+### R1D3
+Finished my Webpack 4 Babel & SCSS with CSS auto-prefixer Boilerplate. Added readme.md and pushed to github.
